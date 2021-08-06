@@ -1,5 +1,5 @@
 {
-    "name": "queue/queuelog",
+    "name": "ofs/queuelog",
     "description": "queue log",
     "type": "library",
     "require": {
