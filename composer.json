@@ -1,0 +1,16 @@
+{
+    "name": "queue/queuelog",
+    "description": "queue log",
+    "type": "library",
+    "require": {
+        "nulpunkt/yesql-php": "1.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hjq",
+            "email": "1326726167@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
